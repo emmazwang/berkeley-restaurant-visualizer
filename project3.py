@@ -4,7 +4,7 @@ from random import sample
 from abstractions import *
 from data import ALL_RESTAURANTS, CATEGORIES, USER_FILES, load_user_file
 from ucb import main
-from utils import distance, mean, zip, enumerate
+from project2 import distance, mean, zip, enumerate
 from visualize import draw_map
 
 ##################################
