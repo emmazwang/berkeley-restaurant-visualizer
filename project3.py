@@ -1,7 +1,7 @@
 
 from random import sample
 
-from abstractions import *
+from project1 import *
 from data import ALL_RESTAURANTS, CATEGORIES, USER_FILES, load_user_file
 from ucb import main
 from project2 import distance, mean, zip, enumerate
