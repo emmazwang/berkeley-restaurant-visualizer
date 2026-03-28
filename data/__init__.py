@@ -1,7 +1,7 @@
 import collections
 import os
 
-from abstractions import *
+from project1 import *
 import data.jsonl
 
 DATA_DIRECTORY = 'data'
