@@ -2,9 +2,9 @@
     "name": "Project 1: Yelp Maps",
     "endpoint": "cal/cs88/sp26/maps",
     "src": [
-        "utils.py",
-        "abstractions.py",
-        "recommend.py"
+        "project2.py",
+        "project1.py",
+        "project3.py"
     ],
     "tests": {
         "tests/0[0-9].py": "ok_test",
