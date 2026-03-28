@@ -3,8 +3,8 @@ import json
 import webbrowser
 import socket
 
-from abstractions import *
-from utils import distance
+from project1 import *
+from project2 import distance
 
 def draw_map(centroids, restaurants, ratings):
     """Write a JSON file containing inputs and load a visualization.
