@@ -1,5 +1,5 @@
 
-from utils import mean
+from project2 import mean
 
 #############################
 # Phase 1: Data Abstraction #
